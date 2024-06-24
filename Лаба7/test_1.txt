@@ -1,0 +1,20 @@
+0 - exit programm
+1 filename - inload file
+2 filename - upload file
+3 - input triangle
+4 - input hexagon
+5 - input pentagon
+6 ind - remove element
+7 - print all elments
+8 - undo
+Enter command: 3
+Enter side: 2
+Enter command: 4
+Enter side: 3
+Enter command: 5
+Enter side: 4
+Enter command: 7
+Triangle: ((-1; -0.57735), (0; 1.1547), (1; -0.57735))
+Hexagon: ((-3; 0), (-1.5; 2.59808), (1.5; 2.59808), (3; 0), (-1.5; -2.59808), (1.5; -2.59808))
+Pentagon: ((-3.4026; 0), (0; 3.4026), (3.4026; 0), (-2; -2.75276), (2; -2.75276))
+Enter command: 0

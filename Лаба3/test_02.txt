@@ -1,0 +1,12 @@
+/*0 - exit 		//выводит программа
+1 - select a trapezoid
+2 - select a rhombus
+3 - select a pentagon
+4 - delete an element of vector
+5 - print centre, square and points of each figure of vector/
+1
+0 0
+1 1
+2 0
+4 1
+Wrong selection   	//выводит программа

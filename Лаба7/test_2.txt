@@ -1,0 +1,20 @@
+0 - exit programm
+1 filename - inload file
+2 filename - upload file
+3 - input triangle
+4 - input hexagon
+5 - input pentagon
+6 ind - remove element
+7 - print all elments
+8 - undo
+Enter command: 3
+Enter side: -1
+Incorrect values
+Enter command: 4
+Enter side: 0
+Incorrect values
+Enter command: 6
+Enter index 1
+Index out of range
+Enter command: 0
+

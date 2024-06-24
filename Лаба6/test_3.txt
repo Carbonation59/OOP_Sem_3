@@ -1,0 +1,45 @@
+Commands:
+        add - add element with index.
+        delete - delete element with index.
+        print - print list
+        get - print element with index
+        end - exit
+        help
+
+Sides of rectangle (centre of figure - point (0;0)).
+
+Select a function: add
+input index: 0
+input horisontal side and vertical side: 2 3
+Element added
+Select a function: add
+input index: 1
+input horisontal side and vertical side: 3 4
+Element added
+Select a function: add
+input index: 1
+input horisontal side and vertical side: 4 5
+Element added
+Select a function: add
+input index: 3
+input horisontal side and vertical side: 5 6
+Element added
+Select a function: print
+2 3 
+4 5 
+3 4 
+5 6 
+Select a function: delete
+input index: 2
+Element deleted
+Select a function: print
+2 3
+4 5 
+5 6 
+Select a function: get
+input index: 2
+Points: (2.5;3), (2.5;-3), (-2.5;-3), (-2.5;3)
+Side 1: 5
+Edge: 3.5
+Square: 30
+Select a function: end

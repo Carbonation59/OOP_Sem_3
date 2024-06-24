@@ -1,0 +1,13 @@
+Enter max size of doc: 2
+0 - exit programm
+1 - input Rhombus
+2 - input Trapezoid
+3 - input Rectangle
+1
+Enter four pair of coord vertex of rhombus: 0 0 0 1 1 1 1 0
+3
+Enter four pair of coord vertex of rectangle: 0 0 0 1 1 1 1 0
+Add in document log1:
+Rhombus: ((0; 0), (0; 1), (1; 1), (1; 0))
+Rectangle: ((0; 0), (0; 1), (1; 1), (1; 0))
+

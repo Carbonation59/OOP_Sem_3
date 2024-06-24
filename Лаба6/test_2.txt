@@ -1,0 +1,28 @@
+Commands:
+        add - add element with index.
+        delete - delete element with index.
+        print - print list
+        get - print element with index
+        end - exit
+        help
+
+Sides of rectangle (centre of figure - point (0;0)).
+
+Select a function: delete
+input index: 0
+Wrong iterator!
+Select a function: add
+input index: 1
+input horisontal side and vertical side: 2 2
+Wrong iterator!
+Select a function: add
+input index: 0
+input horisontal side and vertical side: 2 2
+Element added
+Select a function: get
+input index: 1
+Wrong index in List!
+Select a function: delete
+input index: 1
+Wrong iterator!
+Select a function: end

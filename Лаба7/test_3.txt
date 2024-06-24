@@ -1,0 +1,18 @@
+0 - exit programm
+1 filename - inload file
+2 filename - upload file
+3 - input triangle
+4 - input hexagon
+5 - input pentagon
+6 ind - remove element
+7 - print all elments
+8 - undo
+Enter command: 7
+Enter command: 1
+Enter filename: qwe
+Enter command: 7
+Triangle: ((-0.5; -0.288675), (0; 0.57735), (0.5; -0.288675))
+Hexagon: ((-2; 0), (-1; 1.73205), (1; 1.73205), (2; 0), (-1; -1.73205), (1; -1.73205))
+Pentagon: ((-2.55195; 0), (0; 2.55195), (2.55195; 0), (-1; -2.06457), (1; -2.06457))
+Enter command: 0
+

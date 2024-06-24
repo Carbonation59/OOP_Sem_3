@@ -1,0 +1,30 @@
+/*a <EL> <PATH> - add element on specified path.
+
+d <PATH> - delete element for specified path.
+
+Example for path: cbcc.
+Example for el:
+
+First diagonal(line x): 12
+Second diagonal(line y): 15
+
+P - print tree
+p <PATH> - print element on specified path
+e - end
+
+Centre of all figures - point (0;0)*/   //выводит программа
+
+a 6 8
+Element added				//выводит программа
+a 4 4
+Element added				//выводит программа
+a 10 10 bb
+Element added				//выводит программа
+a 12 12 bc
+Element added				//выводит программа
+/*P
+4, 4
+6, 8
+        12, 12
+10, 10*/				//выводит программа
+e

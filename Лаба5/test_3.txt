@@ -1,0 +1,46 @@
+Commands:
+        add - add element with index.
+        delete - delete element with index.
+        print - print list
+        get - print element with index
+        end - exit
+        help
+
+Section, that join middles of bases, belong to axis Y (centre of section - point (0;0)).
+
+Select a function: add
+input index: 0
+input first base, second base and height: 2 3 4
+Element added
+Select a function: add
+input index: 1
+input first base, second base and height: 3 4 5
+Element added
+Select a function: add
+input index: 1
+input first base, second base and height: 4 5 6
+Element added
+Select a function: add
+input index: 3
+input first base, second base and height: 5 6 7
+Element added
+Select a function: print
+2 3 4
+4 5 6
+3 4 5
+5 6 7
+Select a function: delete
+input index: 2
+Element deleted
+Select a function: print
+2 3 4
+4 5 6
+5 6 7
+Select a function: get
+input index: 2
+Points: (2.5;3.5), (3;-3.5), (-3;-3.5), (-2.5;3.5)
+Base 1: 5
+Base 2: 6
+Edge: 3.5
+Square: 38.5
+Select a function: end

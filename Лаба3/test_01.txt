@@ -1,0 +1,43 @@
+/*0 - exit         //выводит программа
+1 - select a trapezoid
+2 - select a rhombus
+3 - select a pentagon
+4 - delete an element of vector
+5 - print centre, square and points of each figure of vector*/
+1
+0 0
+1 1
+2 1
+3 0
+2
+3 0
+0 -2
+-3 0
+0 2
+5
+/*centre: 1.5 0.5  //выводит программа
+area: 2
+points of figure:
+0 0
+1 1
+2 1
+3 0
+centre: 0 0
+area: 12
+points of figure:
+3 0
+0 -2
+-3 0
+0 2*/
+
+4
+select a position // выводит программа
+1
+5
+/*centre: 0 0  	  //выводит программа
+area: 12	
+points of figure:
+3 0
+0 -2
+-3 0
+0 2*/

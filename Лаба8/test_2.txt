@@ -1,0 +1,17 @@
+Enter max size of doc: 0
+Wrong values
+Enter max size of doc: ad
+Wrong values
+Enter max size of doc: 1
+0 - exit programm
+1 - input Rhombus
+2 - input Trapezoid
+3 - input Rectangle
+1
+Enter four pair of coord vertex of rhombus: 0 0 1 1 2 1 3 0
+Is not a rhombus
+2
+Enter four pair of coord vertex of trapezoid: 0 0 0 1 1 1 1 0
+Is not a trapezoid
+0
+
